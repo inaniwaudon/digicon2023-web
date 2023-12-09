@@ -87,7 +87,7 @@ const App = () => {
             <Comment
               role="プロデューサ"
               name="松田一郎"
-              affiliation="情報メディア創成学類 3年"
+              affiliation="筑波大学 情報学群 情報メディア創成学類 3年"
               photo="/producer.webp"
               comment={
                 <p>

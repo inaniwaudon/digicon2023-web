@@ -34,7 +34,8 @@ export const Footer = () => {
     <Wrapper>
       <Content>
         <p>
-          情報メディア創成学類 ディジタルコンテンツ表現実習
+          筑波大学 情報学群
+          情報メディア創成学類「ディジタルコンテンツ表現実習」制作展
           <PastLinks>
             <a href="#">Page Top</a>
             <Slash>／</Slash>
@@ -46,7 +47,7 @@ export const Footer = () => {
             <Slash>／</Slash>
             <a href="/2021">2021</a>
             <Slash>／</Slash>
-            <a href="/2022">2021</a>
+            <a href="/2022">2022</a>
           </PastLinks>
         </p>
       </Content>

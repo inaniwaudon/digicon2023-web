@@ -86,8 +86,8 @@ const App = () => {
             />
             <Comment
               role="プロデューサ"
-              name="松田一郎"
-              affiliation="筑波大学 情報学群 情報メディア創成学類 3年"
+              name="松田一朗"
+              affiliation="筑波大学 情報学群 情報メディア創成学類"
               photo="/producer.webp"
               comment={
                 <p>
@@ -107,7 +107,7 @@ const App = () => {
         <Section paddingTop={true}>
           <Headline>Credit</Headline>
           <Crediets>
-            <div>プロデューサ ／ 松田一郎</div>
+            <div>プロデューサ ／ 松田一朗</div>
             <div>イラスト ／ 濱田丈偉</div>
             <div>タイポグラフィ ／ 佐藤陽亮</div>
             <div>ポスターデザイン ／ 夏馨</div>

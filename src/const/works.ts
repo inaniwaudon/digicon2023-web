@@ -94,4 +94,33 @@ export const works: Work[] = [
     ……たまーに間違えちゃうかもだけど、大目に見てくれると嬉しいな。
     それはともかく！ぜひぜひ楽しんでってね～。`,
   },
+  {
+    title: "当たるも八卦、当たらぬも八卦",
+    author: "甘利康志朗",
+    thumbnail: "tarot.webp",
+    description:
+      "これは、タロットを用いた占いを行うことによって観客自身の悩みに何らかの光をもたらす試みです。しかし、タロットの結果を解釈するのは私ではなくGPT4.0、すなわちAIです。果たしてAIによる占いは貴方自身の救いとなるのでしょうか。「占う」という行為の信頼性は何処に表れるのでしょうか。",
+  },
+  {
+    title: "Ordeline",
+    author: "佐藤陽亮",
+    thumbnail: "ordeline.webp",
+    description:
+      "フォント「ordeline」を制作しました。直線・直角・丸角のみを用いた文字表現を試みました。",
+  },
+  {
+    title: "狐面屋",
+    author: "冨田陽向",
+    thumbnail: "fox.webp",
+    arts: ["fox0.webp", "fox1.webp", "fox2.webp"],
+    description: "AI狐面屋、爆誕。依頼募集中。",
+  },
+  {
+    title: "parametric-typography",
+    author: "和田優斗",
+    thumbnail: "parametric.webp",
+    arts: ["parametric0.webp", "parametric1.webp"],
+    description:
+      "お手持ちのスマートフォンを操作して、パラメトリックに制御されたタイポグラフィを生成します。従来、フォントの制作には膨大な時間や専門的な知識が必要とされてきました。本作品を通じて、タイポグラフィをよりインタラクティブかつ身近に体感してもらうことを目的としています。",
+  },
 ];
